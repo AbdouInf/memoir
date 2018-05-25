@@ -1,0 +1,24 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+	\title{rapport projet de fin siecle 	Licene}
+	\author{TAYEB CHERIF Mohand Said \\YAYADENE Abderzak \\ZADIR Azdine  \\SALIMI Salim}
+
+	\date{23/05/2018}
+	\begin{document}
+		\maketitle
+		\newpage
+		\section{remerciement}
+			%\paragraph{remerciement}
+			c'est avec un grand plaisir que nous avons réservé ces quelques lignes en signe de gratitude et de profonde reconnaissance à tous ceux qui, de prés ou de loin, ont contribué à la réalisation et l'aboutissement de ce travail.\\nous tenons a exprimer de tout cœur nos sincères remerciement a notre encadrant M.AKILAL Karim pour avoir bien voulu nous accompagner tout au long de la préparation de ce projet, pour les sages conseils et recommandations qui nous ont permis de réaliser ce modeste travail qu'il trouve ici l'expression de notre profond gratitude. \\ Nous tenons à remercier chacun des membres du jury pour l'intérêt qu'il a porté a ce travail en acceptant de l'examiner et de l'enrichir.\\Nous sommes redevables a nos cher parents pour leur soutien morale et matériels et aussi pour leur amour.\\nous acquittons, enfin, volontiers d'un devoir de gratitude et de remerciements a tous nos enseignants pour la qualité de l'enseignement qu'ils ont bien voulu nous prodiguer durant nos études afin de me fournir une formation efficiente.
+			
+			\newpage
+			\section{Introduction générale}
+				Au début du vingt-et-unième siècle, le marché de la téléphonie  mobile a connu une véritable révolution. \\En effet, seulement deux décennies ont été suffisants pour passer d'un simple téléphone portable permettant d'émettre et recevoir des appels, à un téléphone intelligent, appelé Smartphone doté de capacités proches de celles offertes par un ordinateur personnel.Légers, puissants et intelligents, les Smartphones prennent une place de plus en plus prépondérante dans notre quotidien.\\notre projet vise à développer une application mobile pour l'organisation  et de gestion du temps. Ce dernier est motivé par le besoin d'un outil informatisé assistant pour l'organisation et la gestion de temps.  Notre Objective  est de rappeler les utilisateur de l'application à chaque rendez-vous et/ou à chaque événement déclaré au niveau de l'emploi de temps grâce au déclenchements des alertes à chaque événement.\\Ce travail est organiser en  cinq chapitre. Au début en commence par une introduction générale incluant le contexte d'étude, la problématique et l'organisation de travail.\\Le premier chapitre est une description de la méthodologie de conception dont la qu'elle en va définir le langage UML ensuite nous effectuons une petite analyse comparatif de certaines application mobile similaire à l'application réaliser. En fin dans la dernière partie, nous décrivons le cahier des charges listant les besoins et les exigences de l'utilisateur.\\Le deuxième chapitre sera consacré à la phase "spécification des besoins" incluant les acteurs de l'application ensuite en décrive  les cas d'utilisations avec un diagramme plus une maquette IHM et navigation afin d'expliquer l'utilisation de l'application.\\Le troisième chapitre se focalise sur "l'analyse des besoins". Nous établissons le diagramme de séquence Système, modèle de domaine et diagramme des classes participantes.\\Le quatrième chapitre sera consacré à "la conception" dont laquelle en va introduire le diagramme d'interaction, diagramme des classes de conception et le modèle relationnel.\\le dernier chapitre concerne l'implémentation. Nous présentons les outils de développement et les langages de programmation utilisés. Nous illustrerons également quelques interfaces de l'application développée.\\Enfin, nous conclurons ce travail en résumant les connaissances acquises durant la réalisation de ce projet.
+
+ 
+ 
+			
+			
+			
+			
+	\end{document}
